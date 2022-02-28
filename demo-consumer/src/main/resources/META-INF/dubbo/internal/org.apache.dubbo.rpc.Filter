@@ -1,0 +1,1 @@
+dubboConsumerFilter=com.example.mobile.server.web.dubbo.filter.DubboConsumerFilter
